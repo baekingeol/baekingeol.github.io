@@ -56,14 +56,14 @@ redirect_from:
 Hyeonmin Lee, Seunghoon Na (KCC, 2023)
 
 ## ACHIEVEMENTS
-- KCC 2023 Best Paper Award: Human-aligned language model using SFT and PPO-based reinforcement learning Dec 2023
-- 2023 National Institute of the Korean Language Artificial Intelligence Language Ability Evaluation: Story Completion Task - NCSoft Special Award Fall 2023
+- KCC 2023 Best Paper Award: Human-aligned language model using SFT and PPO-based reinforcement learning (Dec 2023)
+- 2023 National Institute of the Korean Language Artificial Intelligence Language Ability Evaluation: Story Completion Task - NCSoft Special Award (Fall 2023)
 
 
 ## ACADEMIC SERVICES
 - **Reviewer** - ARR Dec 2024, Feb 2025
 
 ## EXTRA CURRICULUM
-- Natural Language Processing 10th Class - AI Natural Language Processing Expert Training Course Completion Spring 2023
-- Artificial Intelligence (AI) Blockchain Professional Training 4th Class - [Advanced] Natural Language Processing Deep Learning Model Design Completion Fall 2022
-- Artificial Intelligence (AI) Blockchain Professional Training 3rd Class - NVIDIA DLI Qualification Course Completion Summer 202
+- Natural Language Processing 10th Class - AI Natural Language Processing Expert Training Course Completion (Spring 2023)
+- Artificial Intelligence (AI) Blockchain Professional Training 4th Class - [Advanced] Natural Language Processing Deep Learning Model Design Completion (Fall 2022)
+- Artificial Intelligence (AI) Blockchain Professional Training 3rd Class - NVIDIA DLI Qualification Course Completion (Summer 2022)
