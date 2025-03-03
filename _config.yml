@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ingeol Baek / Jeff"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -213,18 +213,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /_publications/
   portfolio:
     output: false
-    permalink: /:collection/:path/
+    permalink: /_portfolio/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /_talks/
 
 
 # These settings control how pages and collections are included in the site
