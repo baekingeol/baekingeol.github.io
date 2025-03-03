@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-* JeonBuk National University (JBNU), Feb 2024
+* JeonBuk National University (JBNU), Feb 2024 <br>
   B.S. in Urban Engineering and Economics (Double Major)
-* Chung-Ang University (CAU) Aug 2026 (expected)
+* Chung-Ang University (CAU) Aug 2026 (expected) <br>
   M.S. in Department of Artificial Intelligence, Supervisor: Prof. Hwanhee Lee
 
 RESEARCH INTERESTS
@@ -21,27 +21,28 @@ RESEARCH INTERESTS
 
 AFFILIATION AND RESEARCH EXPERIENCE
 ======
-* LG AI Research Oct 2024 - Present \\
-  COLLABORATIVE RESEARCHER
-  · Remote Working with Dr. Joongbo Shin and Prof. Hwanhee Lee
+* LG AI Research Oct 2024 - Present <br>
+  COLLABORATIVE RESEARCHER <br>
+  · Remote Working with Dr. Joongbo Shin and Prof. Hwanhee Lee <br>
   · Theme: Intent Classification and Out-of-Domain Detection
 
-* LILAB Intern Jan 2024 - Aug 2024
-  · Theme: Retrieval Augmented Generation
+* LILAB Intern Jan 2024 - Aug 2024 <br>
+  · Theme: Retrieval Augmented Generation <br>
   · Project: QA system using RAG in real estate legal domain
 
-* CCLAB Intern Jan 2023 - Dec 2023
-  · Theme: Reinforcement Learning and LLM
-  · Project: Dementia diagnosis classification test based on patient speech
+* CCLAB Intern Jan 2023 - Dec 2023 <br>
+  · Theme: Reinforcement Learning and LLM <br>
+  · Project: Dementia diagnosis classification test based on patient speech <br>
   · Published a paper at KCC 2023 (nominated for best paper)
 
 PROJECT
 ======
-* QA system using RAG in real estate legal domain Jan 2024 - Oct 2024
-  · Supervisor: Prof. Hwanhee Lee
-  · Enterprise: URP
-* Dementia diagnosis classification test based on patient speech Apr 2023 - Sep 2023
-  · Supervisor: Prof. Seunghoon Na
+* QA system using RAG in real estate legal domain Jan 2024 - Oct 2024 <br>
+  · Supervisor: Prof. Hwanhee Lee <br>
+  · Enterprise: URP <br>
+
+* Dementia diagnosis classification test based on patient speech Apr 2023 - Sep 2023 <br>
+  · Supervisor: Prof. Seunghoon Na <br>
   · Enterprise: Jeonbuk National University Hospital
 
 INTERNATIONAL JOURNALS (SCIE) / TOP-TIER CONFERENCES
