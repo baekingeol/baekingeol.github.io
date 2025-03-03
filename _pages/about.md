@@ -14,9 +14,9 @@ redirect_from:
   M.S. in Department of Artificial Intelligence, Supervisor: Prof. Hwanhee Lee
 
 ## RESEARCH INTERESTS
-- Research Interests \\
+- **Research Interests** \\
   Natural Language Processing, Multi-modal Large Language Model, Adaptive-RAG.
-- Current Focus \\
+- **Current Focus** \\
   Multi-modal Retrieval-Augmented Generation, Mechnical Interpretability
 
 ## AFFILIATION AND RESEARCH EXPERIENCE
