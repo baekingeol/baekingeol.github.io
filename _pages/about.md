@@ -37,18 +37,18 @@ redirect_from:
 ## PROJECT
 - **QA system using RAG in real estate legal domain** (Jan 2024 - Oct 2024) \\
   Supervisor: Prof. Hwanhee Lee \\
-  Enterprise: URP \\
+  Enterprise: URP 
 
 - **Dementia diagnosis classification test based on patient speech** (Apr 2023 - Sep 2023) \\
   Supervisor: Prof. Seunghoon Na \\
   Enterprise: Jeonbuk National University Hospital
 
 ## INTERNATIONAL JOURNALS (SCIE) / TOP-TIER CONFERENCES
-- SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL - Jimin Lee, **Ingeol Baek**, ByeongJeong Kim, Hwanhee Lee (Under review, 2025)
-- Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification - Gyutae Park, **Ingeol Baek**, ByeongJeong Kim, Joongbo Shin, Hwanhee Lee (Under review, 2025)
-- Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval - **Ingeol Baek**, Hwan Chang, Byeongjeong Kim, Jimin Lee, Hwanhee Lee (NAACL, 2025)
-- Crafting the Path: Robust Query Rewriting for Information Retrieval - **Ingeol Baek**, Jimin Lee, Joonho Yang, Hwanhee Lee (IEEE Access, 2025)
-- REMDoC: Reference-free Evaluation for Medical Document Summaries via Contrastive Learning - Jimin Lee, **Ingeol Baek**, Hwanhee Lee (IEEE Access, 2024)
+- [SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL](https://arxiv.org/abs/2502.11438) - Jimin Lee, **Ingeol Baek**, ByeongJeong Kim, Hwanhee Lee (Under review, 2025)
+- [Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification](https://arxiv.org/abs/2412.15603) - Gyutae Park, **Ingeol Baek**, ByeongJeong Kim, Joongbo Shin, Hwanhee Lee (Under review, 2025)
+- [Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval](https://arxiv.org/abs/2410.13339) - **Ingeol Baek**, Hwan Chang, Byeongjeong Kim, Jimin Lee, Hwanhee Lee (NAACL, 2025)
+- [Crafting the Path: Robust Query Rewriting for Information Retrieval](https://arxiv.org/abs/2407.12529) - **Ingeol Baek**, Jimin Lee, Joonho Yang, Hwanhee Lee (IEEE Access, 2025)
+- [REMDoC: Reference-free Evaluation for Medical Document Summaries via Contrastive Learning](https://ieeexplore.ieee.org/document/10804787) - Jimin Lee, **Ingeol Baek**, Hwanhee Lee (IEEE Access, 2024)
 
 ## DOMESTIC CONFERENCES
 - KoSaul: Korean Legal Understanding Model - **Ingeol Baek**, Joonho Yang, Hwanhee Lee (IEIE, 2024)
