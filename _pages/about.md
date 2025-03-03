@@ -21,7 +21,7 @@ RESEARCH INTERESTS
 
 AFFILIATION AND RESEARCH EXPERIENCE
 ======
-* LG AI Research Oct 2024 - Present
+* LG AI Research Oct 2024 - Present \\
   COLLABORATIVE RESEARCHER
   · Remote Working with Dr. Joongbo Shin and Prof. Hwanhee Lee
   · Theme: Intent Classification and Out-of-Domain Detection
