@@ -20,12 +20,12 @@ redirect_from:
   Multi-modal Retrieval-Augmented Generation, Mechnical Interpretability
 
 ## AFFILIATION AND RESEARCH EXPERIENCE
-- **Adobe Research** (May 2025 - Present) \\
+<!-- - **Adobe Research** (May 2025 - Present) \\
   COLLABORATIVE RESEARCHER \\
   Remote Working with [Dr. David Seunghyun Yoon](https://scholar.google.co.kr/citations?user=UpymOMwAAAAJ&hl=ko) and Prof. Hwanhee Lee \\
-  Theme: Agentic RAG that Recognizes Syntactic Ambiguity
+  Theme: Agentic RAG that Recognizes Syntactic Ambiguity -->
 
-- **LG AI Research** (Oct 2024 - Feb 2025) \\
+- **LG AI Research** (Oct 2024 - Apr 2025) \\
   COLLABORATIVE RESEARCHER \\
   Remote Working with [Dr. Joongbo Shin](https://scholar.google.co.kr/citations?user=xzJSvJcAAAAJ&hl=ko) and Prof. Hwanhee Lee \\
   Theme: Intent Classification and Out-of-Domain Detection
