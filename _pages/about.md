@@ -67,7 +67,7 @@ Hyeonmin Lee, Seunghoon Na (KCC, 2023)
 
 
 ## ACADEMIC SERVICES
-- **Reviewer** - ARR Dec 2024, Feb 2025
+- **Reviewer** - ARR Dec 2024, Feb 2025, May 2025
 
 ## EXTRA CURRICULUM
 - Natural Language Processing 10th Class - AI Natural Language Processing Expert Training Course Completion (Spring 2023)
