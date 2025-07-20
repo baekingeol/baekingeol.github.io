@@ -22,12 +22,12 @@ redirect_from:
 ## AFFILIATION AND RESEARCH EXPERIENCE
 - **Adobe Research** (May 2025 - Present) \\
   COLLABORATIVE RESEARCHER \\
-  Remote Working with Dr. David Seunghyun Yoon and Prof. Hwanhee Lee \\
+  Remote Working with [Dr. David Seunghyun Yoon](https://scholar.google.co.kr/citations?user=UpymOMwAAAAJ&hl=ko) and Prof. Hwanhee Lee \\
   Theme: Agentic RAG that Recognizes Syntactic Ambiguity
 
 - **LG AI Research** (Oct 2024 - Feb 2025) \\
   COLLABORATIVE RESEARCHER \\
-  Remote Working with Dr. Joongbo Shin and Prof. Hwanhee Lee \\
+  Remote Working with [Dr. Joongbo Shin](https://scholar.google.co.kr/citations?user=xzJSvJcAAAAJ&hl=ko) and Prof. Hwanhee Lee \\
   Theme: Intent Classification and Out-of-Domain Detection
 
 - **LILAB Intern** (Jan 2024 - Aug 2024) \\
