@@ -20,7 +20,11 @@ redirect_from:
   Multi-modal Retrieval-Augmented Generation, Mechnical Interpretability
 
 ## AFFILIATION AND RESEARCH EXPERIENCE
-- **Adobe Research** (May 2025 - Present) \\
+- **SK Telecom** (Oct 2025 - Dec 2025) \\
+  Multi-modal Agent Team Internship \\
+  Project: Financial Consensus Deep Research Agent
+
+- **Adobe Research** (May 2025 - Oct 2025) \\
   COLLABORATIVE RESEARCHER \\
   Remote Working with [Dr. David Seunghyun Yoon](https://scholar.google.co.kr/citations?user=UpymOMwAAAAJ&hl=ko) and Prof. Hwanhee Lee \\
   Theme: Agentic RAG that Recognizes Syntactic Ambiguity
@@ -40,19 +44,20 @@ redirect_from:
   Published a paper at KCC 2023 (nominated for best paper)
 
 ## PROJECT
+- **Financial Consensus Deep Research Agent** (Oct 2025 - Dec 2025) \\
+  Supervisor: Taehoon Lee \\
+  Enterprise: Multimodal Agent Team Leader
+  
 - **QA system using RAG in real estate legal domain** (Jan 2024 - Oct 2024) \\
   Supervisor: Prof. Hwanhee Lee \\
   Enterprise: URP 
 
-- **Dementia diagnosis classification test based on patient speech** (Apr 2023 - Sep 2023) \\
-  Supervisor: Prof. Seunghoon Na \\
-  Enterprise: Jeonbuk National University Hospital
-
 ## INTERNATIONAL JOURNALS (SCIE) / TOP-TIER CONFERENCES
-- [How Do Large Vision-Language Models See Text in Image? Unveiling the Distinctive Role of OCR Heads](https://arxiv.org/abs/2505.15865)- **Ingeol Baek**, Hwan Chang, Sunghyun Ryu, Hwanhee Lee (EMNLP, 2025)
-- [SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL](https://arxiv.org/abs/2502.11438) - Jimin Lee, **Ingeol Baek**, ByeongJeong Kim, Hwanhee Lee (EMNLP, 2025)
-- [Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification](https://arxiv.org/abs/2412.15603) - Gyutae Park, **Ingeol Baek**, ByeongJeong Kim, Joongbo Shin, Hwanhee Lee (ACL, 2025)
-- [Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval](https://arxiv.org/abs/2410.13339) - **Ingeol Baek**, Hwan Chang, Byeongjeong Kim, Jimin Lee, Hwanhee Lee (NAACL, 2025)
+- [MARCH: Evaluating the Intersection of Ambiguity Interpretation and Multi-hop Inference](https://arxiv.org/abs/2509.22750) - Jeonghyun Park\*, **Ingeol Baek**\*, Seunghyun Yoon, Haeun Jang, Aparna Garimella, Akriti Jain, Nedim Lipka, Hwanhee Lee (ACL findings, 2026)
+- [How Do Large Vision-Language Models See Text in Image? Unveiling the Distinctive Role of OCR Heads](https://arxiv.org/abs/2505.15865) - **Ingeol Baek**, Hwan Chang, Sunghyun Ryu, Hwanhee Lee (EMNLP Oral, 2025)
+- [SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL](https://arxiv.org/abs/2502.11438) - Jimin Lee, **Ingeol Baek**, ByeongJeong Kim, Hwanhee Lee (EMNLP Main, 2025)
+- [Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification](https://arxiv.org/abs/2412.15603) - Gyutae Park, **Ingeol Baek**, ByeongJeong Kim, Joongbo Shin, Hwanhee Lee (ACL Main, 2025)
+- [Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval](https://arxiv.org/abs/2410.13339) - **Ingeol Baek**, Hwan Chang, Byeongjeong Kim, Jimin Lee, Hwanhee Lee (NAACL findings, 2025)
 - [Crafting the Path: Robust Query Rewriting for Information Retrieval](https://arxiv.org/abs/2407.12529) - **Ingeol Baek**, Jimin Lee, Joonho Yang, Hwanhee Lee (IEEE Access, 2025)
 - [REMDoC: Reference-free Evaluation for Medical Document Summaries via Contrastive Learning](https://ieeexplore.ieee.org/document/10804787) - Jimin Lee, **Ingeol Baek**, Hwanhee Lee (IEEE Access, 2024)
 
@@ -67,7 +72,7 @@ Hyeonmin Lee, Seunghoon Na (KCC, 2023)
 
 
 ## ACADEMIC SERVICES
-- **Reviewer** - ARR Dec 2024, Feb 2025, May 2025
+- **Reviewer** - ARR (Dec 2024 - Present)
 
 ## EXTRA CURRICULUM
 - Natural Language Processing 10th Class - AI Natural Language Processing Expert Training Course Completion (Spring 2023)
